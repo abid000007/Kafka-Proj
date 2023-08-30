@@ -13,3 +13,5 @@ We are going to use different technologies such as Python, Amazon Web Services (
 * Glue Catalog
 * EC2
 * Apache Kafka
+!imp :
+     I've used CSV file where some data was stored because the real time api is not free  
